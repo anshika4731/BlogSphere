@@ -12,6 +12,13 @@ Personalized dashboard showing user activity, post stats, and quick actions.
 
 💻 Frontend Technologies Used:
 
-TypeScript & JavaScript – For writing robust, scalable, and maintainable frontend code
+HTML5 – For semantic page structure
+
+CSS3 – For styling and responsive layout
+
+JavaScript – For interactive UI and DOM manipulation
+
+TypeScript – For type-safe, scalable, and maintainable code
+
 
 
