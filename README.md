@@ -1,1 +1,1 @@
-# MajorProject_BloggingPlatform
+# MajorProject_BlogSphere
