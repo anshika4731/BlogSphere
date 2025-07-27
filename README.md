@@ -1,1 +1,1 @@
-# MajorProject_BlogSphere
+# BlogSphere
